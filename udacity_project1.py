@@ -7,7 +7,7 @@ import fresh_tomatoes
 # open_movies_page() expects the following properties on each movie:
 #   trailer_youtube_url
 #   title
-#	poster_image_url
+#   poster_image_url
 
 class movie:
 	title = ""
